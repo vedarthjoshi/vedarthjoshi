@@ -1,4 +1,7 @@
-### Hi there 👋
+# This is Vedarth Joshi
+### 🔭 I’m currently learning Godot engine, java, and webdevlopment
+### 📫 How to reach me: https://www.instagram.com/joshivedarth/
+### I’m looking to collaborate on game/web/design project/tasks feel free to reach me
 
 <!--
 **vedarthjoshi/vedarthjoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
