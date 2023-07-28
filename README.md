@@ -1,6 +1,7 @@
 # This is Vedarth Joshi
 ### 🔭 I’m currently learning Godot engine, java, and webdevlopment
 ### 📫 How to reach me: https://www.instagram.com/joshivedarth/
+### 💬 joshivedarth1095@gmail.com 
 ### I’m looking to collaborate on game/webdevlopment/designing -> project/tasks feel free to reach me
 
 <!--
