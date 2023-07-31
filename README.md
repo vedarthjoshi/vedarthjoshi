@@ -3,7 +3,7 @@
 ### 🌱 I'm Currently Working on a webProject and visual Novel engine in java IG lol
 ### 📫 How to reach me: https://www.instagram.com/joshivedarth/
 ### 💬 Email: joshivedarth1095@gmail.com 
-### I’m looking to collaborate on game/webdevlopment/designing -> project/tasks feel free to reach me
+### 🫱🏻‍🫲🏻 I’m looking to collaborate on game/webdevlopment/designing -> project/tasks feel free to reach me
 
 <!--
 **vedarthjoshi/vedarthjoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
