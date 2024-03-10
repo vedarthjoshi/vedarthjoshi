@@ -1,9 +1,9 @@
 # This is Vedarth Joshi
-### 🔭 I’m currently learning Godot engine, java, and webdevlopment
-### 🌱 rn Working on a webProject, visual Novel engine and some tools in java.
+### 🔭 I’m currently learning Godot engine, java, and Android Devlopment
+### 🌱 rn Working on a Game Project, visual Novel engine and some tools in java.
 ### 💬 How to reach me: https://www.instagram.com/joshivedarth/
 ### 📫 Email: joshivedarth1095@gmail.com 
-### 🫱🏻‍🫲🏻 I’m looking to collaborate on game/webdevlopment/designing -> project/tasks
+### 🫱🏻‍🫲🏻 I’m looking to collaborate on game/webdevlopment/designing -> project/Tasks
 
 <!--
 **vedarthjoshi/vedarthjoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
