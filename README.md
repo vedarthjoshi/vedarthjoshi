@@ -1,5 +1,5 @@
 # Vedarth Joshi
-### 🔭 I’m currently learning Unity engine, and Android Devlopment
+### 🔭 I’m currently learning Unreal engine, and Android Devlopment
 ### 🌱 rn Working on a Game Project in godot, visual Novel engine and some tools in java.
 ### 💬 How to reach me: https://www.instagram.com/joshivedarth/
 ### 📫 Email: joshivedarth1095@gmail.com 
