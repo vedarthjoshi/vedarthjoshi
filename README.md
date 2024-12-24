@@ -1,8 +1,8 @@
 # Vedarth Joshi
 
-joshivedarth1095@gmail.com  
-
-https://www.instagram.com/joshivedarth/
+## - M : joshivedarth1095@gmail.com  
+## - X : https://x.com/vedarrrth  
+## - I : https://www.instagram.com/joshivedarth/  
 <!--
 ### 🔭 I’m currently learning Unreal engine, and Android Devlopment
 ### 🌱 rn Working on a Game Project in godot, visual Novel engine and some tools in java.
