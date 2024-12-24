@@ -1,8 +1,12 @@
 # Vedarth Joshi
+joshivedarth1095@gmail.com 
+https://www.instagram.com/joshivedarth/
+<!--
 ### 🔭 I’m currently learning Unreal engine, and Android Devlopment
 ### 🌱 rn Working on a Game Project in godot, visual Novel engine and some tools in java.
 ### 💬 How to reach me: https://www.instagram.com/joshivedarth/
 ### 📫 Email: joshivedarth1095@gmail.com 
+-->
 
 <!--
 **vedarthjoshi/vedarthjoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
