@@ -1,5 +1,7 @@
 # Vedarth Joshi
+
 joshivedarth1095@gmail.com  
+
 https://www.instagram.com/joshivedarth/
 <!--
 ### 🔭 I’m currently learning Unreal engine, and Android Devlopment
