@@ -1,5 +1,6 @@
 # Vedarth Joshi
 
+### - B : https://vedarthjoshi.github.io/journal/
 ### - M : joshivedarth1095@gmail.com  
 ### - X : https://x.com/vedarrrth  
 ### - I : https://www.instagram.com/joshivedarth/  
