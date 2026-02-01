@@ -1,9 +1,12 @@
 # Vedarth Joshi
 
-### - B : https://vedarthjoshi.github.io/journal/
-### - M : joshivedarth1095@gmail.com  
-### - X : https://x.com/vedarrrth  
-### - I : https://www.instagram.com/joshivedarth/  
+- Blog      : https://vedarthjoshi.github.io/journal/
+- Mail      : joshivedarth1095@gmail.com  
+- X Profile : https://x.com/vedarrrth  
+- Instagram : https://www.instagram.com/joshivedarth/
+- Itch.Io   : https://vedarth.itch.io/
+- Portfolio : https://vedarthjoshi.github.io/info/
+- LinkedIn  : https://www.linkedin.com/in/vedarth-joshi-72905924b/
 <!--
 ### 🔭 I’m currently learning Unreal engine, and Android Devlopment
 ### 🌱 rn Working on a Game Project in godot, visual Novel engine and some tools in java.
